@@ -1,6 +1,11 @@
-# Imersao FrontEnd
+# Imersao FrontEnd Alura
 
-Recriando a página do Spotify, utilizando HTML, CSS e Javascript.
+Este projeto proporciona uma imersão prática nos fundamentos do desenvolvimento web, recriando uma página inspirada no Spotify.
 
-Projeto desenvolvido na Imersão Front-End da Alura
+## Assuntos abordados
+- Revisão geral de HTML, CSS e Javascript
+- Layouts responsivos, flexbox, grid
+- Responsividade no CSS
+- Manipulação do DOM
+- Frameworks Angular e React
 
