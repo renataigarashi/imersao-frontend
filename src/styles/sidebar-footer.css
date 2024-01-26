@@ -164,3 +164,37 @@ body {
   padding: 8px;
   border-radius: 20px;
 }
+
+.disclaimer-premium {
+  display: flex;
+  justify-content: space-between;
+  /* background: rgb(152, 4, 204); */
+  background: linear-gradient(
+    90deg,
+    rgba(152, 4, 204, 1) 0%,
+    rgba(121, 9, 97, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: #fff;
+  padding: 16px 20px;
+}
+
+.disclaimer-premium .disclaimer-premium__title {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.disclaimer-premium .disclaimer-premium__subtitle {
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.disclaimer-premium button {
+  border-radius: 50px;
+  padding: 15px 30px;
+  border: none;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--black);
+}
