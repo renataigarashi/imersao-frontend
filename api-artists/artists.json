@@ -1,0 +1,34 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Dio",
+      "genre": "Rock",
+      "urlImg": "https://s.glbimg.com/jo/g1/f/original/2010/05/16/james-dio.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Black Sabbath",
+      "genre": "Metal",
+      "urlImg": "https://www.hollywoodreporter.com/wp-content/uploads/2013/01/black_sabbath_logo_black_l.jpg?w=1024"
+    },
+    {
+      "id": 3,
+      "name": "Megadeth",
+      "genre": "Thrash Metal",
+      "urlImg": "https://s2-valor.glbimg.com/OvTLXdcdN3cBRxfJDj5F5lA8oDw=/0x0:3600x2400/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/Q/G/TLN5EXRyielzun09m0Lw/70542037-sc-20-20a-20banda-20megadeth-20da-20esquerda-20para-20a-20direita-20chris-20adler-20kiko-20loureiro-20dave-20mustaine-20e.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Motorhead",
+      "genre": "Rock",
+      "urlImg": "https://cdns-images.dzcdn.net/images/artist/a847db6646ce06fa1ff0e12de8b97957/500x500.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Metallica",
+      "genre": "Thrash Metal",
+      "urlImg": "https://www.opovo.com.br/_midias/jpg/2022/11/30/metallica_40_1200x909__1_-20396008.jpg"
+    }
+  ]
+}
